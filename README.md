@@ -78,6 +78,3 @@ best_params = pipeline.run_optimisation(n_trials=50)
 - `optuna` — hyperparameter optimisation
 - `matplotlib`, `seaborn` — visualisation
 
-## Context
-
-This system was designed for Northumbrian Water / KKR infrastructure monitoring, targeting the detection of pollution events in ecologically sensitive catchments. The PRISM directive matrix is intended to guide adaptive, resource-efficient field sampling in real time.
